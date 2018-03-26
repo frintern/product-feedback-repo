@@ -1,7 +1,5 @@
 ### I am a
 - [ ] Frinterneer 
-   - [ ] Moderator
-   - [ ] Content Creator
 - [ ] Super fan
 
 ### I’m submitting a 
@@ -9,10 +7,19 @@
 - [ ] Design report
 - [ ] Content report
 - [ ] Suggestion 
+- [ ] Contact query
 ---
 ### Issue / Description
 - [ ] Mobile 
 - [ ] Desktop 
+
+**Browser Type**
+- [ ] Chrome
+- [ ] Firefox Quantum
+- [ ] Firefox
+- [ ] Opera
+- [ ] Microsoft Edge
+- [ ] Safari
 
 **Page Type**
 - [ ] Home Page (Landing Page)
