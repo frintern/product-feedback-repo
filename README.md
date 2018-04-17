@@ -3,7 +3,7 @@ This repo is to provide feedback after testing during beta testing for our Skill
 
 ### Welcome Frinterneers :wave: Thank you so much for joining us! We are super excited to have you help us make this tool better with your feedback.
 
-## We are currently in beta and are excited to get your feedback.
+## Skill Checker is currently a prototype and we are excited to get your feedback.
 
 We are soooo excited to finally share with you what we have been working on. Keep in mind it’s still a work-in-progress/prototype and that’s where you come in. We want you all to be our eyes and help us discover anything that needs fixing before we share it to the world.
 
