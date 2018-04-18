@@ -1,6 +1,7 @@
 ### I am a
 - [ ] Frinterneer 
 - [ ] Super fan
+- [ ] Friend
 
 ### I’m submitting a 
 - [ ] Bug report
