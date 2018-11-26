@@ -24,18 +24,19 @@
 
 **Page Type**
 - [ ] Home Page (Landing Page)
-- [ ] Question Page (Checker Page)
-- [ ] Resource Page
-- [ ] Trello Board 
+- [ ] Question Page (Pathfinder)
+- [ ] Career Fit Page (Pathfinder)
+- [ ] Skill guides Page
 - [ ] Other 
 
-**Description:**
+**Description of the issue:**
 
 
 
 
 ----
 ### Steps to Reproduce
+Please share the steps you took that created the issue
 1.
 
 ### Link to Example
@@ -43,4 +44,6 @@
 
 ### Screenshot(s)
 
+
 ### Suggestion (Possible Solution)
+
